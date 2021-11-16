@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ 【➣♡𝐃𝐞𝐯𝐢𝐥 𝐏𝐫𝐢𝐲𝐚➣♡🇮🇳】
+ʜᴏɪ, ɪ ᴍ 【🇮🇳💙[𝗗𝗘𝗩𝗜𝗟 𝗣𝗥𝗜𝗬𝗔]💙🇮🇳】
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
  [❤](https://telegra.ph/file/dc39f500dc12e33ff5c82.jpg)
 """
@@ -85,7 +85,7 @@ buttons = [
             text="ᴀᴅᴅ ➣𝐓𝐫𝐢𝐬𝐡𝐚➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/DevilPriya_RoBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://github.com/harshpanditxd/DevilPriyaManager"),
+        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞 💫", url=f"https://github.com/harshpanditxd/DevilPriyaManager"),
         InlineKeyboardButton(
             text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/TheBlaze_Official_Fed"
         ),
