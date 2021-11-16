@@ -30,6 +30,8 @@ The easiest way to deploy this Bot is via Heroku.
  https://t.me/Full_on_Mstii
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️⃝🇮🇳★
+- @Official_Shadoww
+  @miss_c_h_e_r_r_y
+  @Harsh_shukla_xd
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
 <a href="https://t.me/Full_on_Mstii"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
