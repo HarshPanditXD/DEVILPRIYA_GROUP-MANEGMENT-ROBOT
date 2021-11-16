@@ -34,6 +34,6 @@ The easiest way to deploy this Bot is via Heroku.
 ## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Priya🇮🇳](https://t.me/miss_c_h_e_r_r_y)
 ## BESTI - [Krishu🇮🇳](https://t.me/KRISHU_1_4_3)
 ## BESTU - [Venom🇮🇳](https://t.me/Toretto_x)
-## BHAI - [Venom🇮🇳](https://t.me/EVIL_IS_OP)
+## BHAI - [Alone Boy🇮🇳](https://t.me/EVIL_IS_OP)
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
 <a href="https://t.me/Full_on_Mstii"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TheBlaze_Official_Fed"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
