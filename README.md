@@ -6,9 +6,9 @@
   <a href="https://github.com/harshpanditxd/DevilPriya/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/DevilTrishaRoBot"><img src="https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Devilpriya_robot"><img src="https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg" width="300"></a></p>
 
-## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@Devilpriya_RoBot](https://t.me/DevilPriya_RoBot)
+## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [https://t.me/Devilpriya_RoBot](https://t.me/DevilPriya_RoBot)
 
 # ❤️ Support
 <a href="https://t.me/Team_Blaze_FIGHTER"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
