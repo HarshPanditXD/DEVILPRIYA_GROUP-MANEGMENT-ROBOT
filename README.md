@@ -27,7 +27,7 @@ The easiest way to deploy this Bot is via Heroku.
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️⃝🇮🇳★ @Harsh_Pandit★🇮🇳⃝🕊️](https://t.me/Harsh_shukla_xd) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 @miss_c_h_e_r_r_y .𝗢𝘄𝗻𝗲𝗿 @Official_Shadoww
+- [🕊️⃝🇮🇳★ @Harsh_Pandit★🇮🇳⃝🕊️](https://t.me/Harsh_shukla_xd) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 https://t.me/miss_c_h_e_r_r_y .𝗢𝘄𝗻𝗲𝗿  https://t.me/Official_Shadoww
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
 <a href="https://t.me/Full_on_Mstii"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
