@@ -22,7 +22,8 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/harshpanditxd/DevilPriyaManager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/HarshPanditXD/DEVILPRIYA_GROUP-MANEGMENT-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
  https://t.me/TEAM_BLAZE_FIGHTER
