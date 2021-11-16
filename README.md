@@ -1,4 +1,4 @@
-<h1 align="center"><b> ★ 𝗗𝗲𝘃𝗶𝗹 𝗣𝗿𝗶𝘆𝗮 ★ </b></h1>
+<h1 align="center"><b> ✨🇮🇳 𝗗𝗲𝘃𝗶𝗹 𝗣𝗿𝗶𝘆𝗮 🇮🇳⚡ </b></h1>
 
 <h4 align="center">𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥, 𝐒𝐦𝐚𝐫𝐭 𝐀𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 ♻️ + 🎵 𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -6,16 +6,16 @@
   <a href="https://github.com/harshpanditxd/DEVILPRIYA_ROBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Devilpriya_robot"><img src="https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/DEVILPRIYA_ROBOT"><img src="https://telegra.ph/file/dc39f500dc12e33ff5c82.jpg" width="300"></a></p>
 
-## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [https://t.me/Devilpriya_RoBot](https://t.me/DevilPriya_RoBot)
+## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@DEVILPRIYA_ROBOT](https://t.me/DEVILPRIYA_ROBOT)
 
 # ❤️ Support
 <a href="https://t.me/Team_Blaze_FIGHTER"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="t.me/Full_On_Mstii"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
-> ⭐️ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐖𝐡𝐨 𝐒𝐭𝐚𝐫𝐫𝐞𝐝 𝗗𝗲𝘃𝗶𝗹 𝗣𝗿𝗶𝘆𝗮, 𝐓𝐡𝐚𝐭 𝐢𝐬 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐏𝐥𝐞𝐚𝐬𝐮𝐫𝐞 𝐖𝐞 𝐇𝐚𝐯𝐞 !
+> ⭐️ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐖𝐡𝐨 𝐒𝐭𝐚𝐫𝐫𝐞𝐝 🔱 𝗗𝗲𝘃𝗶𝗹 𝗣𝗿𝗶𝘆𝗮 🔱, 𝐓𝐡𝐚𝐭 𝐢𝐬 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐏𝐥𝐞𝐚𝐬𝐮𝐫𝐞 𝐖𝐞 𝐇𝐚𝐯𝐞 !
 
 ## 𝘾𝙡𝙞𝙘𝙠 𝙏𝙝𝙚 𝙄𝙢𝙖𝙜𝙚 𝘼𝙣𝙙 𝘿𝙚𝙥𝙡𝙤𝙮 𝙔𝙤𝙪𝙧 𝘽𝙤𝙩
 
