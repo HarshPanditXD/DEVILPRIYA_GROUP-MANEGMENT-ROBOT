@@ -3,7 +3,7 @@
 <h4 align="center">𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥, 𝐒𝐦𝐚𝐫𝐭 𝐀𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 ♻️ + 🎵 𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/harshpanditxd/DevilPriya/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/harshpanditxd/DEVILPRIYA_ROBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/Devilpriya_robot"><img src="https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg" width="300"></a></p>
@@ -31,7 +31,8 @@ The easiest way to deploy this Bot is via Heroku.
 ###𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
 ## 𝙾𝚆𝙽𝙴𝚁 -[Harsh🇮🇳](https://t.me/Harsh_shukla_xd)
 ## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[Shadow🇮🇳](https://t.me/Official_Shadoww)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Priya🇮🇳](https://t.me/@miss_c_h_e_r_r_y)
-##
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Priya🇮🇳](https://t.me/miss_c_h_e_r_r_y)
+## BESTI - [Krishi🇮🇳](https://t.me/KRISHU_1_4_3)
+## BHAI- [VENOM🇮🇳] https://t.me/Toretto_x
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
 <a href="https://t.me/Full_on_Mstii"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TheBlaze_Official_Fed"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
