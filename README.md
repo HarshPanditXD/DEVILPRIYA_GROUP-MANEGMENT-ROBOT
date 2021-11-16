@@ -24,9 +24,9 @@ The easiest way to deploy this Bot is via Heroku.
 
 "<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/HarshPanditXD/DEVILPRIYA_GROUP-MANEGMENT-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
- https://t.me/TEAM_BLAZE_FIGHTER
- https://t.me/Full_on_Mstii
- https://t.me/Full_on_Mstii
+## OWNER-[FIGHTER GROUPh🇮🇳](https://t.me/Team_Blaze_Fighter)
+## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[CHATTING GROUP🇮🇳](https://t.me/FULL_ON_MSTII)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[FED_CHANNEL🇮🇳](https://t.me/TheBlaze_Official_Fed)
 
 ###𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
 ## 𝙾𝚆𝙽𝙴𝚁 -[Harsh🇮🇳](https://t.me/Harsh_shukla_xd)
